@@ -7,14 +7,15 @@
 |[lgbm种子融合](./lgbm_seed_stack.py)|[commit 3371a1259e2eb5383991ce7101da854ed4edccd8](https://github.com/loopyme/Awsome-CCF2019-kernals/commit/3371a1259e2eb5383991ce7101da854ed4edccd8)|https://zhuanlan.zhihu.com/p/79687336|
 |[lgbm单模型](./lgbm.py)|[commit 5dd48af379adf3af2da6d01b66bfd1d24963f8b5](https://github.com/loopyme/Awsome-CCF2019-kernals/commit/5dd48af379adf3af2da6d01b66bfd1d24963f8b5)|https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing/blob/master/baseline.py|
 
+### 重构？
 我对这些public kernals进行了:
  - 重构部分代码
  - 按我的习惯重命名变量
  - 添加部分注释
 
-我的修改**有可能**会提升代码可读性或效率，但并不确定具有任何优化效果. 修改是我在读别人的kernal时顺手完成的，其根本目的是确保我正确理解了代码执行过程和作者思路．
+我的修改**有可能**会提升代码可读性或效率，但并**不确定具有任何优化效果**. 修改是我在读别人的kernal时顺手完成的，其根本目的是确保我正确理解了代码执行过程和作者思路．**能确定的是我重构后的代码会和原代码输出相同的结果**．
 
-我的习惯命名(前缀中缀或后缀):
+## 我的习惯命名
  - ```d_``` 数据集
  - ```x_``` 输入
  - ```y_``` 输出(目标)
