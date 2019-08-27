@@ -7,6 +7,7 @@
 |[lgbm种子融合](./lgbm_seed_stack.py)|[commit 3371a1259e2eb5383991ce7101da854ed4edccd8](https://github.com/loopyme/Awsome-CCF2019-kernals/commit/3371a1259e2eb5383991ce7101da854ed4edccd8)|https://zhuanlan.zhihu.com/p/79687336|
 |[lgbm单模型](./lgbm.py)|[commit 5dd48af379adf3af2da6d01b66bfd1d24963f8b5](https://github.com/loopyme/Awsome-CCF2019-kernals/commit/5dd48af379adf3af2da6d01b66bfd1d24963f8b5)|https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing/blob/master/baseline.py|
 |[万能一把梭](./model_smelter.py)|||
+|[EDA工具](./Basic_EDA)|||
 
 ### 重构？
 我对这些public kernals进行了:
