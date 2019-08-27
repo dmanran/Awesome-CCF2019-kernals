@@ -1,5 +1,5 @@
 > **当前kernal代码都来自可公开访问的网站，如果你并不想某个kernal出现在这里，请直接issue,我会立即移除**
-# Awsome-CCF2019-kernals
+# Awesome-CCF2019-kernals
 收集CCF2019`离散制造过程中典型工件的质量符合率预测`赛道上，我看见的一些public kernals
 
 |kernals|重构|源地址|
